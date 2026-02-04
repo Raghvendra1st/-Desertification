@@ -8,3 +8,5 @@ google Ai Studio
 kaggle
 And diffrent ai tools like- Gemini , chatgpt etc
 
+step 2 -Learn Google Earth Engine 
+
