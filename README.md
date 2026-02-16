@@ -47,19 +47,6 @@ git clone https://github.com/yourusername/desertification-prediction.git
 # Navigate to the directory
 cd desertification-prediction
 
-# Install dependencies
-pip install -r requirements.txt
-📖 Usage
-To run the prediction script on your local dataset:
-
-Python
-python predict.py --input ./data/satellite_images/ --output ./results/heatmap.png
-🗺️ Roadmap
-[ ] Integration with real-time IoT soil sensors.
-
-[ ] Web-based dashboard for NGOs and government agencies.
-
-[ ] Global-scale inference using Google Earth Engine API.
 
 🤝 Contributing
 Contributions are welcome! Please fork the repo and submit a pull request for any feature additions or bug fixes.
