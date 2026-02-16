@@ -48,8 +48,5 @@ git clone https://github.com/yourusername/desertification-prediction.git
 cd desertification-prediction
 
 
-🤝 Contributing
-Contributions are welcome! Please fork the repo and submit a pull request for any feature additions or bug fixes.
-
 📄 License
 Distributed under the MIT License. See LICENSE for more information.
