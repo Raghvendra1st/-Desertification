@@ -43,10 +43,3 @@ Modeling: Training an ensemble model (Random Forest + XGBoost) or a Deep Neural 
 Bash
 # Clone the repository
 git clone https://github.com/yourusername/desertification-prediction.git
-
-# Navigate to the directory
-cd desertification-prediction
-
-
-📄 License
-Distributed under the MIT License. See LICENSE for more information.
