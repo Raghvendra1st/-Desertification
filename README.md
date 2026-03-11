@@ -43,3 +43,7 @@ Modeling: Training an ensemble model (Random Forest + XGBoost) or a Deep Neural 
 Bash
 # Clone the repository
 git clone https://github.com/yourusername/desertification-prediction.git
+
+i need to work here college making pressure
+this is burnning issue here
+
