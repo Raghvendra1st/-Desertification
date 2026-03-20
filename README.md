@@ -1,3 +1,4 @@
+
 # Desertification
 AI for Prediction of Desertification Patterns 🌍🌵
 📌 Overview
@@ -39,14 +40,11 @@ LST (Land Surface Temperature)
 
 Modeling: Training an ensemble model (Random Forest + XGBoost) or a Deep Neural Network to classify land degradation stages.
 
-⚙️ Installation
-Bash
-# Clone the repository
-git clone https://github.com/yourusername/desertification-prediction.git
-
-i need to work here college making pressure
-this is burnning issue here
-
-Hello buddy How are you
+📁Repository Structure-
+├── Data/               # Placeholder for dataset links (Landsat-8/Sentinel-2)
+├── Models/             # AI model architectures (CNN/RNN)
+├── Notebooks/          # Initial exploratory data analysis
+├── Reports/            # Fortnightly Progress Reports & Progress Diary
+└── README.md           # Project documentation
 
 
