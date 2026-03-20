@@ -1,4 +1,4 @@
-# Week 01 Progress Report: Project Foundation
+# Set 1 Progress Report: Project Foundation
 **Project:** AI for Prediction of Desertification Patterns  
 **Group ID:** 101  
 **Date:** [23/01/2026]
@@ -31,7 +31,7 @@ The following tech stack has been finalized and configured for the development e
 | **Deep Learning** | TensorFlow / Keras | For building the predictive neural network layers. |
 | **GIS Mapping** | QGIS / GeoPandas | For spatial data visualization and final output rendering. |
 
-## 4. Work Planned for Week 02
+## 4. Work Planned for Next Week
 * **System Architecture:** Finalize the data flow diagram from ingestion to prediction.
 * **Dataset Acquisition:** Start collecting Landsat-8 and Sentinel-2 tiles for the study area.
 * **Detailed Literature Review:** Complete a comprehensive bibliography of at least 10 high-impact research papers.
