@@ -42,3 +42,23 @@ LST (Land Surface Temperature)
 
 Modeling: Training an ensemble model (Random Forest + XGBoost) or a Deep Neural Network to classify land degradation stages
 
+
+
+desert_ai_project/
+├── manage.py
+├── core/                          # Main project settings
+│   ├── settings.py
+│   └── urls.py
+├── analysis/                      # The "AI Engine" app
+│   ├── models.py                  # Database for NDVI scores, soil data
+│   ├── views.py                   # Logic to trigger AI predictions
+│   ├── ai_logic/                  # Folder for your ML models
+│   │   ├── model_loader.py        # Script to load .h5 or .pkl files
+│   │   └── desert_model_v1.h5     # The actual trained model
+│   ├── utils.py                   # Image processing (Rasterio/GDAL)
+│   └── serializers.py             # If using Django Rest Framework
+├── mapping/                       # App for Map visualizations
+│   ├── static/js/map_logic.js     # Leaflet/Mapbox integration
+│   └── templates/map.html
+└── media/                         # Storage for uploaded satellite images
+
