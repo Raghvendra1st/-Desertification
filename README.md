@@ -1,4 +1,6 @@
-
+#PROJECT NAME : AI for Prediction of Desertification Patterns
+#GROUP NO: 101
+#SUPERVISOR: Dr. Dhyanchadra Yadav
 # Desertification
 AI for Prediction of Desertification Patterns 🌍🌵
 📌 Overview
@@ -38,15 +40,5 @@ BSI (Bare Soil Index)
 
 LST (Land Surface Temperature)
 
-Modeling: Training an ensemble model (Random Forest + XGBoost) or a Deep Neural Network to classify land degradation stages.
-
-📁Repository Structure-
-├── Data/               # Placeholder for dataset links (Landsat-8/Sentinel-2)
-├── Models/             # AI model architectures (CNN/RNN)
-├── Notebooks/          # Initial exploratory data analysis
-├── Reports/            # Fortnightly Progress Reports & Progress Diary
-└── README.md           # Project documentation
-hii
-did nothing
-
+Modeling: Training an ensemble model (Random Forest + XGBoost) or a Deep Neural Network to classify land degradation stages
 
