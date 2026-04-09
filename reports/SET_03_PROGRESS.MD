@@ -2,7 +2,7 @@
 # Progress Report – Set 3: System Design & Logic
 **Project:** AI for Prediction  Desertification Patterns  
 **Group ID:** 101  
-**Date:** March 15, 2026
+**Date:** March 25, 2026
 
 ## 1. Overview
 During this phase, the project transitioned from theoretical research to the **Architectural Design** stage. We focused on defining how data flows through our system and selecting the specific technologies required for implementation.
