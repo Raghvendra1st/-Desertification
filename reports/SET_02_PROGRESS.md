@@ -2,7 +2,7 @@
 # Set 02 Progress Report: System Design & Data Acquisition
 **Project:** AI for Prediction of Desertification Patterns  
 **Group ID:** 101  
-**Date:** [10/02/2026]
+**Date:** [15/02/2026]
 
 ## 1. Complete Detailed Literature Review
 In this phase, we moved from basic collection to a comparative analysis of state-of-the-art methodologies.
