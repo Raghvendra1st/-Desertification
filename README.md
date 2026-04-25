@@ -60,5 +60,5 @@ desert_ai_project/
 ├── mapping/                       # App for Map visualizations
 │   ├── static/js/map_logic.js     # Leaflet/Mapbox integration
 │   └── templates/map.html
-└── media/                         # Storage for uploaded satellite images
+└── media/                         # Storage for uploaded satellite images.........................
 
