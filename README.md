@@ -1,6 +1,6 @@
 #PROJECT NAME : AI for Prediction of Desertification Patterns
 #GROUP NO: 101
-#SUPERVISOR: Dr. Dhyanchadra Yadav
+
 # Desertification
 AI for Prediction of Desertification Patterns 🌍🌵
 📌 Overview
